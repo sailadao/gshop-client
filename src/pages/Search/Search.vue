@@ -1,10 +1,10 @@
 <template>
-  Search
+  <div>Search</div>
 </template>
 
 <script>
   export default {
-    name: "msite"
+
   }
 </script>
 
