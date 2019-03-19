@@ -6,7 +6,7 @@
       </span>
       <span>外卖</span>
     </a>
-    <a href="javascript:;" class="guide_item" @click="goto('/serch')" :class="{on: this.$route.path === '/serch'}">
+    <a href="javascript:;" class="guide_item" @click="goto('/search')" :class="{on: this.$route.path === '/search'}">
       <span class="item_icon">
         <i class="iconfont icon-search"></i>
       </span>
