@@ -1,19 +1,12 @@
 <template>
-  <div>App</div>
+  Profile
 </template>
 
 <script>
-
-
-
   export default {
+    name: "msite"
   }
-
-
-
-
 </script>
-
 
 <style lang="stylus" rel="stylesheet/stylus" scoped>
 
