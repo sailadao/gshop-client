@@ -1,7 +1,7 @@
 <template>
   <section class="profile">
-    <Header title="yffygjihihjff"/>
-    <section class="profile-number">
+    <Header title="个人中心"/>
+    <section class="profile-number" @click="$router.push('/Login')">
       <a href="javascript:" class="profile-link">
         <div class="profile_image">
           <i class="iconfont icon-person"></i>
